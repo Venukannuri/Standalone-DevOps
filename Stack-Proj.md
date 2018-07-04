@@ -2,8 +2,8 @@
 
 ### Install Web Server.
 
-```
+
 # yum install httpd -y
-```
+
 
 ### Install App Server.
