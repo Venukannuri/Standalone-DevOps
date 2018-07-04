@@ -1,2 +1,2 @@
-# Standalone-DevOps
-Introduction To DevOps (Project -1)
+##Introduction To DevOps 
+    #Standalone
