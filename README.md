@@ -21,9 +21,12 @@ Lab setup includes the following tasks needs to be performed.
    
    ### Install Web Server.
 
-            yum install httpd -y
+        yum install httpd -y
        
-
    ### Install App Server.
        
         yum install tomcat -y
+   
+   ### Install App Server.
+        
+        yum install mariadb-server -y
