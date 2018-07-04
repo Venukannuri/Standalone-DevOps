@@ -1,3 +1,5 @@
 ## Introduction To DevOps 
-    # Standalone
+   # Standalone Project 
+   
+   # Steps to be fallowed for fallowing Project 
     
