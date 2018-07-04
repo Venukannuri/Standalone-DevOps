@@ -17,8 +17,12 @@ Lab setup includes the following tasks needs to be performed.
 
 ![screenshot from 2018-07-04 02-27-04](https://user-images.githubusercontent.com/8659694/42260311-e9143da2-7f31-11e8-8b36-cfc4719177e7.png)
 
-### 4. Using existing image create servers  
-       
-       --> webserver
-       --> appserver
-       --> dbserver
+### 4.  Configure Stack with three different servers. 
+   
+   ### Install Web Server.
+
+       ```
+           # yum install httpd -y
+        ```
+
+   ### Install App Server.
