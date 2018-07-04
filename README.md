@@ -27,6 +27,6 @@ Lab setup includes the following tasks needs to be performed.
        
         yum install tomcat -y
    
-   ### Install App Server.
+   ### Install DB Server.
         
         yum install mariadb-server -y
