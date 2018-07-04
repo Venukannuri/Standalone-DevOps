@@ -11,8 +11,7 @@ Lab setup includes the following tasks needs to be performed.
 
 ### 2. run a script for custom configurations of server 
           
-          --> ssh init-script.sh
-      
+          --> curl https://raw.githubusercontent.com/Venukannuri/Standalone-DevOps/master/init-script.sh | bash     
 
 ### 3. Create exisiting CentOS Server Instance to Image 
 
