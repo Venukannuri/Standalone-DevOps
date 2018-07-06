@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=1A3K9VMBjxk&list=PLLmNg_q93mewjx90hth8-5IvuYaMsJ
 
 https://drive.google.com/folderview?id=0BxswlzFoBa-7amtSbThOMXctVEk
 
-https://www.youtube.com/watch?v=ye7hgGZwSsY&list=PLJIqXVV4K5LXEGBDPy1mxigzNVMAzkOHv
+https://www.youtube.com/watch?v=Nj4mrJgh7gU&list=PLJIqXVV4K5LXT8gkTJjHAgzZgW1K3se8U
 
 ## Linux Certification Videos.
 
